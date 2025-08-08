@@ -19,7 +19,7 @@ It started as a simple PDF → HTML/CSS conversion, but became an opportunity to
 
 ### **1. Azure Student Account**
 - Signed up for [Azure for Students](https://azure.microsoft.com/en-us/free/students/) with my university email.
-- Received **$200 free credits** and free-tier services.
+- Received **$100 free credits** and free-tier services.
 
 ---
 
@@ -46,3 +46,7 @@ It started as a simple PDF → HTML/CSS conversion, but became an opportunity to
   git branch -M main
   git remote add origin https://github.com/M-Abdullah07/cloud-resume.git
   git push -u origin main
+
+### **4. Open This Website**
+
+- (https://icy-rock-0e2d4e610.2.azurestaticapps.net/)
